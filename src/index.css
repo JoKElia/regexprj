@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: white;
+    padding: 40px;
+}
+
+input {
+    width: 100%;
+    max-width: 600px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #334155;
+    background: #1e293b;
+    color: white;
+}
+
+code {
+    color: #60a5fa;
+}
+
+``
